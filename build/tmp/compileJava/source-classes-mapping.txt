@@ -1,0 +1,20 @@
+config/Passport.java
+ config.Passport
+ config.Passport$PassportBuilder
+jdbc/connection/ConnectionDataBaseFactory.java
+ jdbc.connection.ConnectionDataBaseFactory
+ jdbc.connection.ConnectionDataBaseFactory$SingletonHelper
+config/Department.java
+ config.Department
+ config.Department$DepartmentBuilder
+config/University.java
+ config.University
+ config.University$UniversityBuilder
+example/dao/CrudDao.java
+ example.dao.CrudDao
+example/dao/PassportDao.java
+ example.dao.PassportDao
+example/dao/impl/PassportDaoImpl.java
+ example.dao.impl.PassportDaoImpl
+application/Application.java
+ application.Application
